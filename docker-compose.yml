@@ -9,4 +9,4 @@ services:
     environment:
       - POSTGRES_DATABASE=postgresql
       - POSTGRES_USER=SSKorableva
-      - POSTGRES_PASSWORD=2sSSmvKRf7Mk09
+      - POSTGRES_PASSWORD=test
